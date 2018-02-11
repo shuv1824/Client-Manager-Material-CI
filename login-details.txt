@@ -1,0 +1,15 @@
+role: 		Super Admin
+email:		admin@admin.com
+password:	123456789
+
+role:		Admin	
+email:		sayem.siddiqui@rrmsense.com
+password:	123456789
+
+role:		Customer Relationship Manager
+email:		manager@manager.com
+password:	123456789
+
+role:		Basic User
+email:		user@user.com
+password: 	123456789
